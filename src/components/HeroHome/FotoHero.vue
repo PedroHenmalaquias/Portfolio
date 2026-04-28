@@ -13,9 +13,4 @@ div{
     /* align-items: center; */
     /* background-color: red; */
 }
-div img{
-    width: 80%;
-    height: auto;
-    /* background-color: red; */
-}
 </style>
